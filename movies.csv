@@ -1,0 +1,21 @@
+movieId,title,genres
+1,Inception (2010),Action|Sci-Fi|Thriller
+2,The Dark Knight (2008),Action|Crime|Drama
+3,Interstellar (2014),Adventure|Drama|Sci-Fi
+4,RRR (2022),Action|Drama
+5,3 Idiots (2009),Comedy|Drama
+6,Dangal (2016),Biography|Drama|Sport
+7,Avengers: Endgame (2019),Action|Adventure|Sci-Fi
+8,The Matrix (1999),Action|Sci-Fi
+9,Parasite (2019),Drama|Thriller
+10,Joker (2019),Crime|Drama|Thriller
+11,The Shawshank Redemption (1994),Drama
+12,Forrest Gump (1994),Drama|Romance
+13,The Godfather (1972),Crime|Drama
+14,Pulp Fiction (1994),Crime|Drama
+15,Fight Club (1999),Drama|Thriller
+16,Goodfellas (1990),Biography|Crime|Drama
+17,The Silence of the Lambs (1991),Crime|Drama|Thriller
+18,Schindler's List (1993),Biography|Drama|History
+19,Whiplash (2014),Drama|Music
+20,La La Land (2016),Comedy|Drama|Music
